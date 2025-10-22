@@ -1,0 +1,14 @@
+C:\Users\54060195898\Desktop\BackEnd\Exercicio22\bin\Debug\net9.0\Exercicio22.exe
+C:\Users\54060195898\Desktop\BackEnd\Exercicio22\bin\Debug\net9.0\Exercicio22.deps.json
+C:\Users\54060195898\Desktop\BackEnd\Exercicio22\bin\Debug\net9.0\Exercicio22.runtimeconfig.json
+C:\Users\54060195898\Desktop\BackEnd\Exercicio22\bin\Debug\net9.0\Exercicio22.dll
+C:\Users\54060195898\Desktop\BackEnd\Exercicio22\bin\Debug\net9.0\Exercicio22.pdb
+C:\Users\54060195898\Desktop\BackEnd\Exercicio22\obj\Debug\net9.0\Exercicio22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54060195898\Desktop\BackEnd\Exercicio22\obj\Debug\net9.0\Exercicio22.AssemblyInfoInputs.cache
+C:\Users\54060195898\Desktop\BackEnd\Exercicio22\obj\Debug\net9.0\Exercicio22.AssemblyInfo.cs
+C:\Users\54060195898\Desktop\BackEnd\Exercicio22\obj\Debug\net9.0\Exercicio22.csproj.CoreCompileInputs.cache
+C:\Users\54060195898\Desktop\BackEnd\Exercicio22\obj\Debug\net9.0\Exercicio22.dll
+C:\Users\54060195898\Desktop\BackEnd\Exercicio22\obj\Debug\net9.0\refint\Exercicio22.dll
+C:\Users\54060195898\Desktop\BackEnd\Exercicio22\obj\Debug\net9.0\Exercicio22.pdb
+C:\Users\54060195898\Desktop\BackEnd\Exercicio22\obj\Debug\net9.0\Exercicio22.genruntimeconfig.cache
+C:\Users\54060195898\Desktop\BackEnd\Exercicio22\obj\Debug\net9.0\ref\Exercicio22.dll

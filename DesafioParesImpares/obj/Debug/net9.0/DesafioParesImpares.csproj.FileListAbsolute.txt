@@ -1,0 +1,14 @@
+C:\Users\54060195898\Desktop\BackEnd\DesafioParesImpares\obj\Debug\net9.0\DesafioParesImpares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54060195898\Desktop\BackEnd\DesafioParesImpares\obj\Debug\net9.0\DesafioParesImpares.AssemblyInfoInputs.cache
+C:\Users\54060195898\Desktop\BackEnd\DesafioParesImpares\obj\Debug\net9.0\DesafioParesImpares.AssemblyInfo.cs
+C:\Users\54060195898\Desktop\BackEnd\DesafioParesImpares\obj\Debug\net9.0\DesafioParesImpares.csproj.CoreCompileInputs.cache
+C:\Users\54060195898\Desktop\BackEnd\DesafioParesImpares\bin\Debug\net9.0\DesafioParesImpares.exe
+C:\Users\54060195898\Desktop\BackEnd\DesafioParesImpares\bin\Debug\net9.0\DesafioParesImpares.deps.json
+C:\Users\54060195898\Desktop\BackEnd\DesafioParesImpares\bin\Debug\net9.0\DesafioParesImpares.runtimeconfig.json
+C:\Users\54060195898\Desktop\BackEnd\DesafioParesImpares\bin\Debug\net9.0\DesafioParesImpares.dll
+C:\Users\54060195898\Desktop\BackEnd\DesafioParesImpares\bin\Debug\net9.0\DesafioParesImpares.pdb
+C:\Users\54060195898\Desktop\BackEnd\DesafioParesImpares\obj\Debug\net9.0\DesafioParesImpares.dll
+C:\Users\54060195898\Desktop\BackEnd\DesafioParesImpares\obj\Debug\net9.0\refint\DesafioParesImpares.dll
+C:\Users\54060195898\Desktop\BackEnd\DesafioParesImpares\obj\Debug\net9.0\DesafioParesImpares.pdb
+C:\Users\54060195898\Desktop\BackEnd\DesafioParesImpares\obj\Debug\net9.0\DesafioParesImpares.genruntimeconfig.cache
+C:\Users\54060195898\Desktop\BackEnd\DesafioParesImpares\obj\Debug\net9.0\ref\DesafioParesImpares.dll
