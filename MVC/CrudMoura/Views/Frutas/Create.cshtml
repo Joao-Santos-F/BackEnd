@@ -1,0 +1,25 @@
+@model CrudMoura.Models.Frutas
+<h1>Cadastro de Fruta</h1>
+
+<form asp-action="SalvarFruta" method="post">
+<label for="Nome">Nome da Fruta</label>
+<input asp-for="Nome" class="form-control">
+
+<br>
+
+<label for="Preco">Preço</label>
+<input asp-for="Preco"class="form-control">
+
+<br>
+
+<label for="Quantidade">Quantidade</label>
+<input asp-for="Quantidade"class="form-control">
+
+<br>
+
+<label for="Categoria">Categoria</label>
+<input asp-for="Categoria" class="form-control">
+
+<br><br>
+<button class="btn btn-success">Cadastrar Fruta</button>
+</form>
