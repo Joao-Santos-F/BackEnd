@@ -1,0 +1,14 @@
+<h1>Lista de Alunos</h1>
+
+<ul>
+
+    @foreach(var item in @ViewBag.Aluno){
+        <p>
+            ID do Aluno - @item.Id_Aluno<br/>
+            Nome do Aluno - @item.NomeAluno<br/>
+            Idade do Aluno - @item.Idade<br/>
+            Cadastro de Pessoa física (CPF) - @item.CPF<br/>
+        </p>
+    }
+
+</ul>

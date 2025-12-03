@@ -20,6 +20,18 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
+[C:/Users/54060195898/Desktop/BackEnd/MVC/CrudMoura/Views/Aluno/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/54060195898/Desktop/BackEnd/MVC/CrudMoura/Views/Aluno/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/54060195898/Desktop/BackEnd/MVC/CrudMoura/Views/Aluno/ListarAluno.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9cTGlzdGFyQWx1bm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/54060195898/Desktop/BackEnd/MVC/CrudMoura/Views/Frutas/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnJ1dGFzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -54,6 +66,26 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/54060195898/Desktop/BackEnd/MVC/CrudMoura/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/54060195898/Desktop/BackEnd/MVC/CrudMoura/Views/Teste/Cadastrar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGVcQ2FkYXN0cmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/54060195898/Desktop/BackEnd/MVC/CrudMoura/Views/Teste/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGVcRWRpdGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/54060195898/Desktop/BackEnd/MVC/CrudMoura/Views/Teste/Excluir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGVcRXhjbHVpci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/54060195898/Desktop/BackEnd/MVC/CrudMoura/Views/Teste/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/54060195898/Desktop/BackEnd/MVC/CrudMoura/Views/Teste/Listar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGVcTGlzdGFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/54060195898/Desktop/BackEnd/MVC/CrudMoura/Views/_ViewImports.cshtml]

@@ -26,7 +26,7 @@ public class HomeController : Controller
 
     public IActionResult ListarNomes()
     {
-        string[] nomes = {"Eduardo", "Maria", "João", "Kauã", "Milena"};
+        string[] nomes = { "Eduardo", "Maria", "João", "Kauã", "Milena" };
 
         ViewBag.Teste = "Olá, eu vim da mochila";
         ViewBag.nomes = nomes; //Guarda os nomes na viewbag
@@ -36,6 +36,11 @@ public class HomeController : Controller
 
 
     public IActionResult Privacy()
+    {
+        return View();
+    }
+
+    public IActionResult Teste()
     {
         return View();
     }
