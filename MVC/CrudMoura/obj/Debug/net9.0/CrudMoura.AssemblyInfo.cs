@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrudMoura")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9fcfc20abf26987a954db6c134f96a81db463b6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e322ba42ae4c19d860d1b2d16b54c7436d1f0f9c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrudMoura")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrudMoura")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,52 @@
+@{
+    ViewData["Title"] = "Logo DevConnect";
+}
+
+<link rel="stylesheet" href="~/css/Cadastro.css" />
+
+<h1>Tela cadastro - DevConnect</h1>
+
+<main>
+    <div>
+        <!--Formulario-->
+        <form class="estilo-form-cadastro">
+            <img src="~/images/logo-devconnect-lg.svg" alt="LogoDevConnect" />
+
+            <p>Cadastrar-se para comunidade exclusiva de desenvolvedores(as).</p>
+
+            <div class="formulario-campos">
+                <label for="Nome">Nome e sobrenome</label>
+                <input type="text" name="" id="Nome" placeholder="Nome e sobrenome" required />
+            </div>
+
+            <div class="formulario-campos">
+                <label for="Nome-user">Nome de usuário</label>
+                <input type="text" name="" id="Nome-user" placeholder="Nome de usuário" required />
+            </div>
+
+            <div class="formulario-campos">
+                <label for="E-mail">E-mail</label>
+                <input type="email" name="" id="E-mail" placeholder="E-mail" required>
+            </div>
+
+            <div class="formulario-campos">
+                <label for="Senha">Senha</label>
+                <input type="password" name="" id="Senha" placeholder="Senha" required />
+            </div>
+
+            <div class="formulario-campos">
+                <label id="label-file" for="campo-uploud">Faça seu uploud aqui...</label>
+                <input type="file" name="" id="campo-uploud">
+            </div>
+
+            <button type="submit" class="formulario-botao-azul">Cadastrar-se</button>
+
+            <p>Ao se cadastrar, você concorda com nossos <a href="#">Termos</a>, <a href="">Políticas de Dados</a> e <a
+                    href="">Política de cookies.</a></p>
+        </form>
+
+        <section id="secao-de-cadastro" class="estilo-formulario">
+            <p>Tem uma conta?<a href="index.html">Conectar-se</a></p>
+        </section>
+    </div>
+</main>
