@@ -8,7 +8,6 @@ using Microsoft.Extensions.Logging;
 
 namespace DevConnect.Controllers
 {
-    [Route("[controller]")]
     public class UsuarioController : Controller
     {
         private readonly ILogger<UsuarioController> _logger;
@@ -19,6 +18,21 @@ namespace DevConnect.Controllers
         }
 
         public IActionResult Index()
+        {
+            return View();
+        }
+
+        public IActionResult Cadastro()
+        {
+            return View();
+        }
+
+        public IActionResult Feed()
+        {
+            return View();
+        }
+
+        public IActionResult Perfil()
         {
             return View();
         }

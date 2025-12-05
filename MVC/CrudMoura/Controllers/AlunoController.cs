@@ -12,12 +12,19 @@ namespace CrudMoura.Controllers
     public class AlunoController : Controller
     {
         private readonly ILogger<AlunoController> _logger;
+        private readonly CrudMouraContext _context; // representa o nosso banco de dados
+
+        public AlunoController(ILogger<AlunoController> logger, CrudMouraContext context)
+        {
+            _logger = logger;
+            _context = context;
+        }
 
         public static List<Aluno> ListaDeAlunos = new List<Aluno>
         {
-            new Aluno{Id_Aluno = 1, NomeAluno = "Rafael", Idade = 12, CPF = 716611610323 },
-            new Aluno{Id_Aluno = 2, NomeAluno = "Ariel", Idade = 11, CPF = 1171940505534 },
-            new Aluno{Id_Aluno = 3, NomeAluno = "Torolho", Idade = 12, CPF = 437054410875 },
+            new Aluno{Id_Aluno = 1, NomeAluno = "Rafael", Idade = 12, CPF = "716.611.610-33" },
+            new Aluno{Id_Aluno = 2, NomeAluno = "Ariel", Idade = 11, CPF = "117.194.0505-34" },
+            new Aluno{Id_Aluno = 3, NomeAluno = "Torolho", Idade = 12, CPF = "437.054.418-75" },
         };
 
         public AlunoController(ILogger<AlunoController> logger)
