@@ -17,17 +17,8 @@ namespace DevConnect.Controllers
             _logger = logger;
         }
 
+        //cadastro de usuário
         public IActionResult Index()
-        {
-            return View();
-        }
-
-        public IActionResult Cadastro()
-        {
-            return View();
-        }
-
-        public IActionResult Feed()
         {
             return View();
         }
