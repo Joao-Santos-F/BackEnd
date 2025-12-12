@@ -4,6 +4,14 @@
 
 <link rel="stylesheet" href="~/css/Login.css" />
 
+<script defer >
+    let UsuarioNovoCadastrado = "@TempData["UsuarioNovoCadastrado"]";
+
+    if (UsuarioNovoCadastrado == "Cadastrado") {
+        alert("Novo usuário cadastrado com sucesso!");
+    }
+</script>
+
 <h1>Tela principal login - DevConnect</h1>
 
 <main>
